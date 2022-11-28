@@ -26,7 +26,8 @@
 }
 
 .bullet__item {
-  margin-right: 15px;
+  margin-right: 35px;
+  margin-left: 20px;
 }
 
 .bullet__item--link{
